@@ -1,0 +1,16 @@
+// Example of a new challenge in challenges.json
+{
+  "title": "Is Palindrome",
+  "description": "Write a function that checks if a given string is a palindrome.",
+  "tests": [
+    {
+      "input": "A man, a plan, a canal: Panama",
+      "output": true
+    },
+    {
+      "input": "Not a palindrome",
+      "output": false
+    }
+  ],
+  "solution": "function isPalindrome(str) { ... }"
+}
